@@ -762,6 +762,8 @@ p {
 .contact-info a {
     color: inherit;
     text-decoration: none;
+    overflow-wrap: anywhere;
+    word-break: break-word;
 }
 
 .contact-info h3 {
